@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zhijie (Jay)
-- 👀 I’m interested in compuatational modeling for fluid and dark matter flow.
+- 👀 I’m interested in compuatational modeling for regular fluid and collisionless dark matter flow.
 - 🌱 I’m currently a compuational scientist at PNNL.
 - 💞️ I’m looking to collaborate on the theory of flow and turbulence.
 - 📫 Reach me at zhijiexu@hotmail.com
