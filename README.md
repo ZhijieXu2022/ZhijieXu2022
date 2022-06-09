@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ZhijieXu2022
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Zhijie (Jay)
+- 👀 I’m interested in compuatational modeling for fluid and dark matter flow.
+- 🌱 I’m currently a compuational scientist at PNNL.
+- 💞️ I’m looking to collaborate on dark matter flow
+- 📫 Reach me at zhijiexu@hotmail.com
 
 
 ![image](https://user-images.githubusercontent.com/38736420/170641069-0224050e-af63-411c-bb14-e66e0314f928.png)
