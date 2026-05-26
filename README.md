@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Zhijie (Jay)
-- 👀 I’m interested in compuatational modeling for regular fluid and collisionless dark matter flow.
-- 🌱 I’m currently a compuational scientist at PNNL.
-- 💞️ I’m looking to collaborate on the theory of flow and turbulence.
-- 📫 Reach me at zhijiexu@hotmail.com
+- 👀 I’m interested in computational modeling for regular fluid and collisionless dark matter flow.
+- 🌱 I’m currently a computational scientist and team lead at PNNL.
+- 💞️ I’m looking to collaborate on the theory of flow and turbulence, and nonequilibrium system dynamics.
+- 📫 Reach me at zhijie.xu@pnnl.gov or zhijiexu@hotmail.com
 
 
 ![image](https://user-images.githubusercontent.com/38736420/170641069-0224050e-af63-411c-bb14-e66e0314f928.png)
