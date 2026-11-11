@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zhijie (Jay)
 - 👀 My research focuses on the nonequilibrium physics of classical fluid dynamics and cosmological collisionless dark matter flow. This work falls within the broader framework of non-equilibrium dynamics, with direct applications to large-scale turbulence, cosmic structure formation, and the training dynamics of large language models.
 - 🌱 I’m currently a computational scientist and team lead at PNNL.
-- 💞️ I’m looking to collaborate on the theory of flow and turbulence, and nonequilibrium system dynamics, and applications to LLMs.
+- 💞️ I’m looking to collaborate on the theory of nonequilibrium system dynamics and applications to LLMs.
 - 📫 Reach me at zhijie.xu@pnnl.gov or zhijiexu@hotmail.com
 
 
